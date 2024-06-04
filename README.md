@@ -1,2 +1,2 @@
-# tiktok-tts
-Generate TikTok Text-to-Speech voices in your browser
+# capcut-tts
+Generate Capcut Text-to-Speech voices in your browser
